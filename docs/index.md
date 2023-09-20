@@ -19,7 +19,7 @@ strategies for getting the most out of Foam. The full docs are included in the
 
 ## Features
 
-- [[wikilinks]]
+- [[wikilinks.md]]
 - [[tags]]
 - [[backlinking]]
 - [[daily-notes]]
